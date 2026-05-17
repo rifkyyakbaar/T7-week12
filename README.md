@@ -32,12 +32,12 @@ Proyek ini adalah aplikasi *dashboard* desktop berbasis antarmuka grafis **PySid
 
 **1. Tampilan Utama Dashboard (Menampilkan Data 'All')**
 > Tampilan default saat aplikasi baru dibuka.
-![Dashboard Utama](ss_utama.png)
+![Dashboard Utama](pic1.png)
 
 **2. Fitur Filter Interaktif (Contoh: Menampilkan Cabang Cairo)**
 > Grafik, tabel, dan total ringkasan otomatis berubah menyesuaikan data dari cabang Cairo saja.
-![Filter Cabang](ss_filter.png)
+![Filter Cabang](pic2.png)
 
 **3. Fitur Export Chart ke PNG**
 > Notifikasi keberhasilan saat menekan tombol Export.
-![Export Sukses](ss_export.png)
+![Export Sukses](pic3.png)
