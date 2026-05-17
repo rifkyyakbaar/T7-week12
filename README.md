@@ -1,6 +1,6 @@
 # T7-Week12: Dashboard Visualisasi Data Penjualan Supermarket
 
-## 👨Identitas Mahasiswa
+## Identitas Mahasiswa
 - **Nama:** Rifky Akbar Utomo Putra
 - **NIM:** F1D02310149
 - **Kelas:** D
@@ -8,7 +8,7 @@
 ## Deskripsi Singkat
 Proyek ini adalah aplikasi *dashboard* desktop berbasis antarmuka grafis **PySide6**. Aplikasi ini bertugas mengolah dan memvisualisasikan data mentah penjualan supermarket menggunakan pustaka **Pandas** (untuk pemrosesan data tabular) dan **Matplotlib** (untuk pembuatan grafik interaktif). Proyek ini dibuat terstruktur dengan memisahkan modul antarmuka utama, *data loader*, dan *chart widget*.
 
-## 📊 Informasi Dataset (Kaggle)
+## Informasi Dataset (Kaggle)
 - **Sumber Dataset:** [Supermarket Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)
 - **Penjelasan Dataset:** Dataset ini berisi catatan transaksi historis dari perusahaan supermarket yang memiliki 3 cabang berbeda (Alex, Giza, Cairo) selama periode 3 bulan.
 - **Makna Kolom Utama pada Dataset:**
